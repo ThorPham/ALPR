@@ -2,7 +2,7 @@
   "name": "alpr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thorpham.github.io/ALRP",
+  "homepage": "https://thorpham.github.io/ALPR",
   "dependencies": {
     "@dropzone-ui/react": "^6.7.1",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
