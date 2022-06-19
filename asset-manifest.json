@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ALPR/static/css/main.6147f5d5.css",
-    "main.js": "/ALPR/static/js/main.81b7295c.js",
+    "main.js": "/ALPR/static/js/main.cc6817ea.js",
     "static/js/787.9165aa3c.chunk.js": "/ALPR/static/js/787.9165aa3c.chunk.js",
     "static/media/sailec.ttf": "/ALPR/static/media/sailec.943bcb191d7a3f67e028.ttf",
     "static/media/ANPR-ALPR-License-plate-recognition-accurate.webp": "/ALPR/static/media/ANPR-ALPR-License-plate-recognition-accurate.9fe1347167d55e8c6d6c.webp",
     "index.html": "/ALPR/index.html",
     "main.6147f5d5.css.map": "/ALPR/static/css/main.6147f5d5.css.map",
-    "main.81b7295c.js.map": "/ALPR/static/js/main.81b7295c.js.map",
+    "main.cc6817ea.js.map": "/ALPR/static/js/main.cc6817ea.js.map",
     "787.9165aa3c.chunk.js.map": "/ALPR/static/js/787.9165aa3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6147f5d5.css",
-    "static/js/main.81b7295c.js"
+    "static/js/main.cc6817ea.js"
   ]
 }
